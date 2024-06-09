@@ -10,7 +10,7 @@ const ExpArray = [
     "Icon_avatar2"
   ],
 ];
-const dataArray = [
+const dataArray1 = [
   [
     "203000000",
     "Default",
